@@ -1,7 +1,7 @@
-# Direk başlat: #  python Adwent.py
-Google Dorks Python kodu#!/usr/bin/env python3
+# Direk başlat: #  python Adwent.py           Google Dorks Python kodu
+#!/usr/bin/env python3
 from googlesearch import search
-import time
+import time 
 
 # Hedef domain (düzelt)
 target = "example.com"
