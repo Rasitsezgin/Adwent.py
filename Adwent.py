@@ -6,7 +6,7 @@ import time
 # Hedef domain (düzelt)
 target = "example.com"
 
-# Payload listesi (dork kalıpları)
+# Payload listesi (dork kalıpları) 
 payloads = [
     'intitle:"index of" "parent directory"',
     'inurl:id=',
